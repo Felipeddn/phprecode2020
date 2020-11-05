@@ -1,0 +1,91 @@
+/* todas as paginas */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.formas_pagamento{
+    color: red;
+}
+.menu a{
+    color:white;   
+    text-decoration: none;
+    margin-left: 15%;   
+}
+.menu{
+    background-color: #ff0000;
+    width: 100%;
+}
+.rodape{
+    text-align: center;
+}
+.credito{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.negrito{
+    font-weight: bold;
+}
+.italico{
+    font-style: italic;
+}
+
+/* produtos */
+.box_produto{
+    text-align: center;    
+    /* display: block; */
+}
+
+.preco{
+    color:red;
+    font-size: x-large;
+}
+.box_produto img{
+    height: 160px;
+    /* width: 120; */
+    text-align: top;
+}
+
+/* #problematico{
+    width: 40px;
+    height: 100px;
+} */
+/* .descricao{
+
+} */
+.precoAnterior{
+    text-decoration: line-through;
+}
+
+.produtos div{
+    /* border: 2px solid green; */
+    display: inline-block;
+    width: 22%;
+    height: 22%;
+    margin-left: 15px;
+}
+.categorias {
+    display: inline-block;
+    width: 24%;
+}
+
+/* lojas */
+
+.lojas div{
+    /* border: 2px solid black; */
+    display: inline-block;
+    width: 33.1%;
+    text-align: center;
+    vertical-align: top;
+}
+/* .box_loja{
+    border: 2px solid blueviolet;
+} */
+/* contato */
+
+.contato div{
+    width: 39%;
+    display: inline-block;
+    text-align: center;
+}
+/* .box_contato{
+    margin-left: 10%;
+} */
