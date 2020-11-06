@@ -1,6 +1,8 @@
 
 use fseletro;
 
+create schema fseletro;
+
 create table comentario(
 id int auto_increment,
 nome varchar (255) not null,
